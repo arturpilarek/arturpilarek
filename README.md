@@ -9,7 +9,6 @@ and Web development is my passion
 * 🌍  I'm based in Kolding, Denmark
 * ✉️  You can contact me at [artur.pilarek@gmail.com](mailto:artur.pilarek@gmail.com)
 * 🧠  I'm learning Next.js, GraphQl, AWS
-* 🤝  I'm open to collaborating on interasting projects
 * ⚡  My sense of humor is broken
 
 ### Skills
